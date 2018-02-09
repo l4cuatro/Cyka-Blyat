@@ -4,6 +4,24 @@ Mobile goal lift is front of robot
 
 --------------------------------------------------------
 
+Controls
+
+Drive- left stick forward & back, right stick rotation
+DR4B- button 5
+Chain bar- button 6
+Mobile goal lift- button 8 up & down
+
+Flip drive- button 7 up
+Toggle mobile goal PID- button 8 right
+Toggle DR4B PID- button 7 left
+Toggle chain bar PID- button 7 down
+
+Increase stack height- button 8 left
+Decrease stack height- button 7 right
+Clear stack height- shake controller
+
+--------------------------------------------------------
+
 Motor Layout
 
 1- lChain (left chain bar motor)

@@ -201,6 +201,8 @@ task main() {
       else
         mtrPwrs[CHAIN] = -127;
     }
+    else if(vexRT[Btn6U])
+      release();
     else
       mtrPwrs[CHAIN] = 0;
 
